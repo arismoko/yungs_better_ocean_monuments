@@ -18,5 +18,9 @@ A port of YUNG's Better Ocean Monuments by YUNGNICKYOUNG and Acarii, under the L
 categories = ["worldgen", "adventure"]
 
 [[screenshots]]
-path = "page/world.png"
-caption = "TODO"
+path = "page/aerial-monument.png"
+caption = "A Better Ocean Monument seen from above the sea."
+
+[[screenshots]]
+path = "page/underwater-monument.png"
+caption = "The monument's steps and central pavilion underwater."
