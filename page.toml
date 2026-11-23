@@ -1,0 +1,22 @@
+summary = "Ocean monuments redesigned into larger, flooded temples with new chambers and guardians."
+description = """
+Ocean monuments redesigned into larger, flooded temples with new chambers and guardians.
+
+What it adds:
+
+- A new ocean monument in deep oceans: domes, rings, a parthenon, maze and battle chambers, 59 templates assembled by YUNG's jigsaw rules.
+- Its ten processors: the monument fills with water below sea level, its legs reach the sea floor, and its placeholders become slabs, sponges, seagrass and copper.
+- Guardian spawns inside the monument, and its chest loot.
+- Vanilla ocean monuments no longer generate, as in the original (its "Disable Vanilla Ocean Monuments" option is on by default).
+
+Differences from the original:
+
+- Tridents thrown in monument water do not persist; that is Java code.
+
+A port of YUNG's Better Ocean Monuments by YUNGNICKYOUNG and Acarii, under the LGPL v3.0 only.
+"""
+categories = ["worldgen", "adventure"]
+
+[[screenshots]]
+path = "page/world.png"
+caption = "TODO"

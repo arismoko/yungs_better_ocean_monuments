@@ -1,0 +1,10 @@
+# YUNG's Better Ocean Monuments for Sunrise: content only (data/ and assets/), no code.
+id = "betteroceanmonuments"
+name = "YUNG's Better Ocean Monuments"
+version = "0.3.0"
+description = "Ocean monuments redesigned into larger, flooded temples with new chambers and guardians."
+authors = ["YUNGNICKYOUNG", "Acarii"]
+license = "LGPL-3.0-only"
+credits = "Ported to Minecraft 26.3 by AdLf0208, and to Sunrise by arismoko."
+homepage = "https://github.com/arismoko/yungs_better_ocean_monuments"
+side = "both"

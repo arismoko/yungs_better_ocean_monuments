@@ -1,7 +1,7 @@
 {
   "processors": [
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:lime_concrete",
       "redraw": true,
       "picks": [
@@ -23,7 +23,7 @@
       "default": { "state": { "id": "minecraft:air" } }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:blue_concrete",
       "redraw": true,
       "picks": [
@@ -58,7 +58,7 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:oxidized_copper",
       "redraw": true,
       "picks": [
@@ -68,7 +68,7 @@
       "default": { "state": { "id": "minecraft:oxidized_copper" } }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:oxidized_cut_copper",
       "redraw": true,
       "picks": [
@@ -78,7 +78,7 @@
       "default": { "state": { "id": "minecraft:oxidized_cut_copper" } }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:oxidized_cut_copper_stairs",
       "redraw": true,
       "keep_properties": true,
@@ -89,7 +89,7 @@
       "default": { "state": { "id": "minecraft:oxidized_cut_copper_stairs" } }
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:oxidized_cut_copper_slab",
       "redraw": true,
       "keep_properties": true,
@@ -100,11 +100,11 @@
       "default": { "state": { "id": "minecraft:oxidized_cut_copper_slab" } }
     },
     {
-      "processor_type": "horizon:keep_world_block",
+      "processor_type": "sunrise:keep_world_block",
       "blocks": ["minecraft:purpur_slab", "minecraft:brown_wool"]
     },
-    { "processor_type": "horizon:flood_air" },
-    { "processor_type": "horizon:waterlog" },
+    { "processor_type": "sunrise:flood_air" },
+    { "processor_type": "sunrise:waterlog" },
     {
       "processor_type": "minecraft:rule",
       "rules": [
@@ -141,13 +141,13 @@
       ]
     },
     {
-      "processor_type": "horizon:pick",
+      "processor_type": "sunrise:pick",
       "block": "minecraft:orange_stained_glass",
       "picks": [{ "below": 0.75, "state": { "id": "minecraft:wet_sponge" } }],
       "default": { "state": { "id": "minecraft:water" } }
     },
     {
-      "processor_type": "horizon:yung_pillar",
+      "processor_type": "sunrise:yung_pillar",
       "target_block": { "id": "minecraft:blue_stained_glass" },
       "target_block_output": {
         "entries": [

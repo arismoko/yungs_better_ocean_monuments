@@ -1,8 +1,0 @@
-# Carried over from YungsBetterOceanMonuments-1.21.1-NeoForge-4.1.2.jar
-# (LGPL-3.0-only). Worldgen only: no code.
-id = "betteroceanmonuments"
-name = "YUNG's Better Ocean Monuments"
-version = "0.2.0"
-api = "0.2"
-side = "both"
-capabilities = ["registries"]
